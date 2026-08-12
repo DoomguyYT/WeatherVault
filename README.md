@@ -122,6 +122,15 @@ cd WeatherVault
 | [Entity Framework Core](https://learn.microsoft.com/ru-ru/ef/core/) | Документация по EF Core |
 | [SQLite](https://www.sqlite.org/docs.html) | Официальная документация SQLite |
 
+
+### 🌐 API и сервисы
+
+| Ресурс | Описание |
+|--------|----------|
+| [OpenWeatherMap API](https://openweathermap.org/api) | Бесплатный API для получения погоды |
+| [OpenWeatherMap API Docs](https://openweathermap.org/current) | Документация по API |
+| [JSON Formatter](https://jsonformatter.org/) | Онлайн-инструмент для форматирования JSON |
+| [Postman](https://www.postman.com/) | Инструмент для тестирования API |
 ---
 
 ## ✅ **Итог**
