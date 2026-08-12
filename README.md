@@ -131,6 +131,17 @@ cd WeatherVault
 | [OpenWeatherMap API Docs](https://openweathermap.org/current) | Документация по API |
 | [JSON Formatter](https://jsonformatter.org/) | Онлайн-инструмент для форматирования JSON |
 | [Postman](https://www.postman.com/) | Инструмент для тестирования API |
+
+
+### 📖 Туториалы и статьи
+
+| Ресурс | Описание |
+|--------|----------|
+| [Работа с HttpClient в C#](https://learn.microsoft.com/ru-ru/dotnet/csharp/tutorials/console-webapiclient) | Как отправлять HTTP-запросы |
+| [Async/await в C#](https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/concepts/async/) | Асинхронное программирование |
+| [Entity Framework Core с SQLite](https://learn.microsoft.com/ru-ru/ef/core/providers/sqlite/) | Работа с SQLite в EF Core |
+| [WPF MVVM](https://learn.microsoft.com/ru-ru/dotnet/architecture/maui/mvvm-pattern) | Паттерн MVVM в WPF |
+| [Работа с JSON в C#](https://learn.microsoft.com/ru-ru/dotnet/standard/serialization/system-text-json/) | Сериализация/десериализация JSON |
 ---
 
 ## ✅ **Итог**
