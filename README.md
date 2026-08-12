@@ -143,16 +143,3 @@ cd WeatherVault
 | [WPF MVVM](https://learn.microsoft.com/ru-ru/dotnet/architecture/maui/mvvm-pattern) | Паттерн MVVM в WPF |
 | [Работа с JSON в C#](https://learn.microsoft.com/ru-ru/dotnet/standard/serialization/system-text-json/) | Сериализация/десериализация JSON |
 ---
-
-## ✅ **Итог**
-
-| Что | Название |
-|-----|----------|
-| `Репозиторий` | `WeatherVault` |
-| `Проект в Visual Studio` | `WeatherVault` |
-| `Решение` | `WeatherVault.sln` |
-| `Сборка` | `WeatherVault.exe` |
-
----
-
-
