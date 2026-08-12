@@ -109,6 +109,20 @@ Pull Request'ы приветствуются! Если вы нашли ошиб�
 git clone https://github.com/yourusername/WeatherVault.git
 cd WeatherVault
 ```
+---
+
+## 🔗 Полезные ссылки
+
+### 📚 Документация
+
+| Ресурс | Описание |
+|--------|----------|
+| [Microsoft Learn — C#](https://learn.microsoft.com/ru-ru/dotnet/csharp/) | Официальная документация по C# |
+| [WPF Документация](https://learn.microsoft.com/ru-ru/dotnet/desktop/wpf/) | Документация по Windows Presentation Foundation |
+| [Entity Framework Core](https://learn.microsoft.com/ru-ru/ef/core/) | Документация по EF Core |
+| [SQLite](https://www.sqlite.org/docs.html) | Официальная документация SQLite |
+
+---
 
 ## ✅ **Итог**
 
