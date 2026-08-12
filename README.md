@@ -7,6 +7,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![WPF](https://img.shields.io/badge/UI-WPF-purple)](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-blue)](https://www.sqlite.org/)
+[![OpenWeatherMap](https://img.shields.io/badge/API-OpenWeatherMap-orange)](https://openweathermap.org/)
 
 ---
 
