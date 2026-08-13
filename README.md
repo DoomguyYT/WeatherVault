@@ -58,21 +58,21 @@ git clone https://github.com/DoomguyYT/WeatherVault.git
 cd WeatherVault
 ```
 
-2. Получите API-ключ
+### 2. Получите API-ключ
 Зарегистрируйтесь на OpenWeatherMap и получите бесплатный API-ключ.
 
-3. Установите зависимости
+### 3. Установите зависимости
 ```bash
 dotnet restore
 ```
 
-4. Создайте базу данных
+### 4. Создайте базу данных
 ```bash
 dotnet ef migrations add InitialCreate
 dotnet ef database update
 ```
 
-5. Запустите приложение
+### 5. Запустите приложение
 ```bash
 dotnet run
 ```
