@@ -54,7 +54,7 @@
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/yourusername/WeatherVault.git
+git clone https://github.com/DoomguyYT/WeatherVault.git
 cd WeatherVault
 ```
 
@@ -106,7 +106,7 @@ Pull Request'ы приветствуются! Если вы нашли ошиб�
 Сделано с ❤️ и ☕
 
 ```bash
-git clone https://github.com/yourusername/WeatherVault.git
+git clone https://github.com/DoomguyYT/WeatherVault.git
 cd WeatherVault
 ```
 ---
